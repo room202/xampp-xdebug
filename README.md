@@ -1,5 +1,9 @@
 # VSCode + XAMPP + Xdebugの設定手順
 
+## Xdebug Wizard
+
+[https://xdebug.org/wizard](https://xdebug.org/wizard)
+
 ## Xdebugのインストール
 
 - [このファイル](https://github.com/room202/xampp-xdebug/raw/main/php_xdebug.dll)をダウンロードする
