@@ -1,6 +1,6 @@
 # VSCode + XAMPP + Xdebugの設定手順
 
-## 自動インストールと設定バッチ
+## Xdebugの自動インストール
 
 [`install.vbs`](https://github.com/room202/xampp-xdebug/raw/main/install.vbs)を実行すれば全部の設定をしてくれるハズ
 
@@ -8,7 +8,7 @@
 
 [https://xdebug.org/wizard](https://xdebug.org/wizard)
 
-## Xdebugのインストール
+## Xdebugの手動インストール
 
 - [このファイル](https://github.com/room202/xampp-xdebug/raw/main/php_xdebug.dll)をダウンロードする
 
