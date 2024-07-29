@@ -1,5 +1,9 @@
 # VSCode + XAMPP + Xdebugの設定手順
 
+## 自動インストールと設定バッチ
+
+`install.vbs`を実行すれば全部の設定をしてくれるハズ
+
 ## Xdebug Wizard
 
 [https://xdebug.org/wizard](https://xdebug.org/wizard)
