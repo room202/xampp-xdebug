@@ -2,7 +2,7 @@
 
 ## 自動インストールと設定バッチ
 
-`install.vbs`を実行すれば全部の設定をしてくれるハズ
+[`install.vbs`](https://github.com/room202/xampp-xdebug/raw/main/install.vbs)を実行すれば全部の設定をしてくれるハズ
 
 ## Xdebug Wizard
 
