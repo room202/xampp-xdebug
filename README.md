@@ -10,11 +10,13 @@
 
 ## Xdebugの手動インストール
 
+### 必要なファイルのダウンロードと配置
+
 - [このファイル](https://github.com/room202/xampp-xdebug/raw/main/php_xdebug.dll)をダウンロードする
 
 - ダウンロードしたファイルを`C:\xampp\php\ext\`に配置する
 
-## php.iniの設定
+### php.iniの設定
 
 `C:\xampp\php\php.ini`を開いて966行目付近に、下記を追記
 
@@ -27,11 +29,11 @@ xdebug.start_with_request = yes
 
 ![](images/001.png)
 
-## Apacheの再起動
+### Apacheの再起動
 
 `XAMPP Control Panel`から`Apache`を再起動する
 
-## VSCodeの設定
+### VSCodeの設定
 
 拡張機能から`PHP Extension Pack`を追加
 
