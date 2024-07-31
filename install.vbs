@@ -88,7 +88,7 @@ vscodePath = "C:\Users\lightbox\AppData\Local\Programs\Microsoft VS Code\bin\cod
 
 ' インストールするPHP Extension Packの名前
 Dim extensionName
-extensionName = "felixfbecker.php-pack"
+extensionName = "xdebug.php-pack"
 
 ' コマンドを構築
 Dim command
